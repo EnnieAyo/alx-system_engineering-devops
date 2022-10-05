@@ -8,4 +8,5 @@
 - 7-movethatfile contains command to move a file
 - 8-firstdelete contains command to delete a file
 - 9-firstdirdeletion contains command to delete a directory
-- 10-back contains command to chnge previous working directory     
+- 10-back contains command to chnge previous working directory
+- 11-lists contains command to list the content of various directory `     
