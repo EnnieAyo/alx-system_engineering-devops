@@ -6,4 +6,5 @@
 - 5-listfilesdigitonly contains command to list files in numerical format
 - 6-firstdirectory contains command to create a directory
 - 7-movethatfile contains command to move a file
-- 8-firstdelete contains command to delete a file   
+- 8-firstdelete contains command to delete a file
+- 9-firstdirdeletion contains command to delete a directory    
