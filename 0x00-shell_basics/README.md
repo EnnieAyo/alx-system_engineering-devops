@@ -1,3 +1,4 @@
 - 0-current_working_directory contains the command to show current working directory
 - 1-listit contains command to list contents of the current directory
 - 2-bring_me_home contains command to go to the home directory
+- 3-listfiles contains command to list contents in long format
