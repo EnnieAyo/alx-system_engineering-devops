@@ -1,1 +1,2 @@
-0-current_working_directory contains the command to show current working directory
+- 0-current_working_directory contains the command to show current working directory
+- 1-listit contains command to list contents of the current directory
