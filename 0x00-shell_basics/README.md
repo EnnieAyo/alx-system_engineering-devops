@@ -12,4 +12,5 @@
 - 11-lists contains command to list the content of various directory 
 - 12-file_type contains command to display file type
 - 13-symbolic_link contains command to create a symlink
-- 14-copy_html contains command to copy only updated files and new files      
+- 14-copy_html contains command to copy only updated files and new files
+- 100-lets_move contains commands to move files that begin with uppercase       
