@@ -9,4 +9,5 @@
 - 8-firstdelete contains command to delete a file
 - 9-firstdirdeletion contains command to delete a directory
 - 10-back contains command to chnge previous working directory
-- 11-lists contains command to list the content of various directory `     
+- 11-lists contains command to list the content of various directory 
+- 12-file_type contains command to display file type `     
