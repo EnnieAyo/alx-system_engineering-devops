@@ -4,3 +4,4 @@
 - 3-listfiles contains command to list contents in long format
 - 4-listmorefiles contains command to list hidden files
 - 5-listfilesdigitonly contains command to list files in numerical format
+- 6-firstdirectory contains command to create a directory 
