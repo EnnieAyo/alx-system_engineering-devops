@@ -14,4 +14,5 @@
 - 13-symbolic_link contains command to create a symlink
 - 14-copy_html contains command to copy only updated files and new files
 - 100-lets_move contains command to move files that begin with uppercase
-- 101-clean_emacs contains command to remove files ending with '~'   
+- 101-clean_emacs contains command to remove files ending with '~'
+- 102-tree contains command to create multiple directories 
