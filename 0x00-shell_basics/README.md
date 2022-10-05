@@ -5,4 +5,5 @@
 - 4-listmorefiles contains command to list hidden files
 - 5-listfilesdigitonly contains command to list files in numerical format
 - 6-firstdirectory contains command to create a directory
-- 7-movethatfile contains command to move a file  
+- 7-movethatfile contains command to move a file
+- 8-firstdelete contains command to delete a file   
