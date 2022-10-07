@@ -11,4 +11,5 @@
 - 10-mirror_permissions- command to mirror the permissions of another file
 - 11-directories_permissions- command to make all directories executable
 - 12-directory_permissions- command to make directory and set permissions
+- 13-change_group- command to change group
 
