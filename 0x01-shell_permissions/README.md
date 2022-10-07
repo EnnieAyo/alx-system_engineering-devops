@@ -12,4 +12,6 @@
 - 11-directories_permissions- command to make all directories executable
 - 12-directory_permissions- command to make directory and set permissions
 - 13-change_group- command to change group
+---
+- 100-change_owner_and_group- command to change owner and group
 
