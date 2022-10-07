@@ -14,4 +14,5 @@
 - 13-change_group- command to change group
 ---
 - 100-change_owner_and_group- command to change owner and group
+- 101-symbolic_link_permissions- command to change owner and group of a symlink
 
