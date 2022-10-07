@@ -15,4 +15,5 @@
 ---
 - 100-change_owner_and_group- command to change owner and group
 - 101-symbolic_link_permissions- command to change owner and group of a symlink
+- 102-if_only- command to change ownership if only current user is 'guillaume'
 
