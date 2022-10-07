@@ -7,4 +7,5 @@
 - 6-multiple_permissions- command to change permission  
 - 7-everybody- command to add executable permission to all 
 - 8-James_Bond- command to make a 007 permission
+- 9-John_Doe- commant to make a 753 permission
 
