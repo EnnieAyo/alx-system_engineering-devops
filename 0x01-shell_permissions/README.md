@@ -4,4 +4,5 @@
 - 3-new_owner- command to change ownership
 - 4-empty- command to create an empty file
 - 5-execute- command to make a file executable
- 
+- 6-multiple_permissions- command to change permission  
+
