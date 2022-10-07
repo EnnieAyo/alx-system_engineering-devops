@@ -9,4 +9,5 @@
 - 8-James_Bond- command to make a 007 permission
 - 9-John_Doe- command to make a 753 permission
 - 10-mirror_permissions- command to mirror the permissions of another file
+- 11-directories_permissions- command to make all directories executable
 
