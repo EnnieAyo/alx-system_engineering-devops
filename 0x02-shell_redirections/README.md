@@ -3,4 +3,5 @@
 - 2-hellofile- display content of etc/passwd
 - 3-twofiles- display content of two files
 - 4-lastlines- display last 10 lines of a file
+- 5-firstlines- display first 10 lines of a file 
 
