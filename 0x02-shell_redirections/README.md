@@ -14,4 +14,5 @@
 - 13-unique- list unique files
 - 14-findthatword- search for root
 - 15-countthatword- search for bin and count
+- 16-whatsnext- search and print 3 next line
 
