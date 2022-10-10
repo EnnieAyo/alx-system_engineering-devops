@@ -7,4 +7,5 @@
 - 6-third_line- display only line 3 of a file 
 -
 - 8-cwd_state- redirects output to a file
+- 9-duplicate_last_line- duplicates the last line 
 
