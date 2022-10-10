@@ -22,4 +22,5 @@
 - 21-reverse- reverses a word
 - 22-users_and_homes- using the cut command 
 ---
+- 100-empty_casks- find all empty files and directories
 
