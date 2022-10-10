@@ -13,4 +13,5 @@
 - 12-newest_files- order files from newest to oldest
 - 13-unique- list unique files
 - 14-findthatword- search for root
+- 15-countthatword- search for bin and count
 
