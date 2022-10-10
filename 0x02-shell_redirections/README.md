@@ -11,4 +11,5 @@
 - 10-no_more_js- finds and deletes only .js files
 - 11-directories- count the number of directories
 - 12-newest_files- order files from newest to oldest
+- 13-unique- list unique files
 
