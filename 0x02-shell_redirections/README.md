@@ -1,5 +1,6 @@
 - 0-hello_world- standard output
 - 1-confused_smiley- confused smiley
 - 2-hellofile- display content of etc/passwd
-- 3-twofiles- gisplay content of two files
+- 3-twofiles- display content of two files
+- 4-lastlines- display last 10 lines of a file
 
