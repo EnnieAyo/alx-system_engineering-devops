@@ -10,4 +10,5 @@
 - 9-duplicate_last_line- duplicates the last line 
 - 10-no_more_js- finds and deletes only .js files
 - 11-directories- count the number of directories
+- 12-newest_files- order files from newest to oldest
 
