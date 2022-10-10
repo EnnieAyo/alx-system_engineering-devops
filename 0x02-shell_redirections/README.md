@@ -19,4 +19,5 @@
 - 18-letteronly- search for lines starting with numbers only
 - 19-AZ- replaces all occurences of letters
 - 20-hiago- deletes all occurences of a letter
+- 21-reverse- reverses a word
 
