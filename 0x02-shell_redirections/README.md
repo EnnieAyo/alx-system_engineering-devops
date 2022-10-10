@@ -20,4 +20,6 @@
 - 19-AZ- replaces all occurences of letters
 - 20-hiago- deletes all occurences of a letter
 - 21-reverse- reverses a word
+- 22-users_and_homes- using the cut command 
+---
 
