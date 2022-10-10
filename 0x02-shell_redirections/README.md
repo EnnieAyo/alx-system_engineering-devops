@@ -17,4 +17,5 @@
 - 16-whatsnext- search and print 3 next line
 - 17-hidethisword- inverts a search
 - 18-letteronly- search for lines starting with numbers only
+- 19-AZ- replaces all occurences of letters
 
