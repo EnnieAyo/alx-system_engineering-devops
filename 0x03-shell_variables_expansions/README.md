@@ -4,4 +4,5 @@
 -
 - 4-global_variables- display global variables
 - 5-local_variables- display global and local variables
+- 6-create_local_variable- creates a local variable
 
