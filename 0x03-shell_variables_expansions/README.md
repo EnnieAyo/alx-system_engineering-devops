@@ -3,4 +3,5 @@
 - 2-path- add to path
 -
 - 4-global_variables- display global variables
+- 5-local_variables- display global and local variables
 
