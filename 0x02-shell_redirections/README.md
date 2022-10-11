@@ -23,4 +23,6 @@
 - 22-users_and_homes- using the cut command 
 ---
 - 100-empty_casks- find all empty files and directories
+- 101-gifs- .gif files
 - 102-acrostic- view first characters
+
