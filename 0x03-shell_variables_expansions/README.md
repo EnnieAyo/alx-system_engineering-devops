@@ -8,4 +8,5 @@
 - 7-create_global_variable- create a global variable
 - 8-true_knowledge- uses a variable
 - 9-divide_and_rule- uses variables
+- 10-love_exponent_breath- exponential
 
