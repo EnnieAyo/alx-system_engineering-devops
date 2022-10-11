@@ -9,4 +9,5 @@
 - 8-true_knowledge- uses a variable
 - 9-divide_and_rule- uses variables
 - 10-love_exponent_breath- exponential
+- 11-binary_to_decimal- changing bases
 
