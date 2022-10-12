@@ -15,4 +15,5 @@
 ---
 - 100-decimal_to_hexadecimal- change base from 10 to 16
 - 101-rot13- encoding and decoding
-
+- 102-odd- print first line and every other line
+- 
